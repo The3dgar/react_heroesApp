@@ -11,7 +11,11 @@ Snaps:
 
   ![Dashboard](public/assets/screenshot/heroScreen.png)
 
-rm: ``` npm install ```
+3. Search page:
+
+  ![Dashboard](public/assets/screenshot/searchScreen.png)
+
+run ``` npm install ```
 
 This examples are part from the [react: De cero a Experto (Hooks y MERN) course](https://www.udemy.com/course/react-cero-experto)
 
